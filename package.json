@@ -1,0 +1,23 @@
+{
+  "name": "oopjstest",
+  "version": "1.0.0",
+  "description": "Proof of concept for TDD an OOP application in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nist/oopjstest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nist/oopjstest/issues"
+  },
+  "homepage": "https://github.com/nist/oopjstest#readme"
+}
